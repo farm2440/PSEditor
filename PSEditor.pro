@@ -27,3 +27,9 @@ FORMS    += mainwindow.ui \
 
 RESOURCES += \
     res.qrc
+
+DISTFILES += \
+    icon.rc
+
+#Икона на приложението - този файл е текстов и съдържа един ред в който се указва път към файла с иконата
+RC_FILE = icon.rc

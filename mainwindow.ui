@@ -73,7 +73,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Добави</string>
+             <string>Добави артикул</string>
             </property>
            </widget>
           </item>
@@ -88,7 +88,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Изтрий</string>
+             <string>Изтрий артикул</string>
             </property>
            </widget>
           </item>
@@ -133,7 +133,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Добави</string>
+             <string>Добави параметър</string>
             </property>
            </widget>
           </item>
@@ -148,7 +148,7 @@
              </font>
             </property>
             <property name="text">
-             <string>Изтрий</string>
+             <string>Изтрий параметър</string>
             </property>
            </widget>
           </item>
